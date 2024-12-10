@@ -1,6 +1,4 @@
-﻿using System.Runtime.Intrinsics.X86;
-using System.Xml.Linq;
-
+﻿
 namespace Assignment6_3_1
 {
     internal class Program
